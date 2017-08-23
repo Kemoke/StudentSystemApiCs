@@ -1,0 +1,10 @@
+﻿{
+  "DbName": "sisapidb",
+  "ServerName": "sisapi.database.windows.net",
+  "DbType": "mssql",
+  "UserId": "sisapi",
+  "Password": "",
+  "AppKey": "21ddweffg2fG2121.21e1wdsfsfesfesfwwdas2145",
+  "HostUri": "http://localhost:9000",
+  "LogFileName": "studentsystem.log"
+}

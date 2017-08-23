@@ -1,0 +1,10 @@
+﻿{
+  "DbName": "University",
+  "ServerName": "127.0.0.1",
+  "DbType": "localdb",
+  "UserId": "root",
+  "Password": "",  
+  "AppKey": "change me yo!",
+  "HostUri": "http://localhost:9000",
+  "LogFileName": "studentsystem.log"
+}
